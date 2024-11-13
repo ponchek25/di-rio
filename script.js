@@ -16,6 +16,7 @@ $(document).ready(function() {
       '"A plena cidadania do índio depende de sua interação com a sociedade nacional e do conhecimento, dos valores morais e costumes por ela adotados, a partir desta interação." Chiquinha Paresi',
       '"Deixar claro quem você é e o que pretende." Paulo Stumpf',
       '"O currículo do curso de História da Universidade é Branca" Marilyn Beloni'
+      '"O lugas mais racista na escola é a sala dos professores" Marilyn Beloni'
     ];
     
    var randomQuote = quoteArray[Math.floor(Math.random() * quoteArray.length)];
